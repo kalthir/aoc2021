@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1B72C15D-F4A5-48DD-A318-E45021ACC8EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1", "ConsoleApp1\Day1.csproj", "{1B72C15D-F4A5-48DD-A318-E45021ACC8EE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{25B602C4-09BC-4CE0-AA22-6C26D3FADEEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2", "ConsoleApp2\Day2.csproj", "{25B602C4-09BC-4CE0-AA22-6C26D3FADEEB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{18FD0247-CCDC-482B-AD85-B0CB137D641E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3", "ConsoleApp3\Day3.csproj", "{18FD0247-CCDC-482B-AD85-B0CB137D641E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{B32ED080-7A8E-4F95-93CD-90974E175883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4", "ConsoleApp4\Day4.csproj", "{B32ED080-7A8E-4F95-93CD-90974E175883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{331085A1-0699-4800-BB21-0A9085CF94AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5", "ConsoleApp5\Day5.csproj", "{331085A1-0699-4800-BB21-0A9085CF94AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6", "Day6\Day6.csproj", "{3298B8F5-599D-48FB-A77B-C65B763213C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{331085A1-0699-4800-BB21-0A9085CF94AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{331085A1-0699-4800-BB21-0A9085CF94AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{331085A1-0699-4800-BB21-0A9085CF94AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3298B8F5-599D-48FB-A77B-C65B763213C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3298B8F5-599D-48FB-A77B-C65B763213C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3298B8F5-599D-48FB-A77B-C65B763213C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3298B8F5-599D-48FB-A77B-C65B763213C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
